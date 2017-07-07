@@ -5,6 +5,15 @@
 
 This application tells the current age along with number of days and number of months.
 
-It requires Node and npm.
+### Getting Started
 
-npm install
+There are two methods for getting started with this repo.
+
+#### Familiar with Git?
+Checkout this repo, install dependencies, then start the gulp process with the following:
+
+```
+> git clone url
+> npm install
+> npm start
+```
